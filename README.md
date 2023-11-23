@@ -1,5 +1,4 @@
-### Hi there 👋
-
+estoy aqui no se porque, soy fotografo
 <!--
 **diegoricodev/diegoricodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
